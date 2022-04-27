@@ -13,6 +13,7 @@ public class Main {
 		}
 		else {
 			System.out.println("Odd number");
+			System.out.println();
 		}
 
 	}
